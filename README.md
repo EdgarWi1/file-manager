@@ -1,4 +1,4 @@
-# UNHAS-DRIVE
+# FILE-MANAGER
 
 > Ini adalah repository **Kelompok X** mata kuliah Projek Perangkat Lunak B
 
@@ -52,4 +52,4 @@ yarn tailwind
 - Tailwind CSS Intellisense
 
 ## Desain Figma
-- [Projek Unhas Drive](https://www.figma.com/file/Dkeym0AqX9NakMaCsahaD4/P.-Perangkat-Lunak?type=design&node-id=21-137&mode=design&t=Vkkap0czwjOdn9VD-0)
+- [Projek File Manager](https://www.figma.com/file/Dkeym0AqX9NakMaCsahaD4/P.-Perangkat-Lunak?type=design&node-id=21-137&mode=design&t=Vkkap0czwjOdn9VD-0)
