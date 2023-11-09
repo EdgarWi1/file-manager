@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,10 +12,25 @@
     {% include "assets/sidebar.html" %}
     
     {% include "assets/navbar.html" %}
+    
 
-    <!-- <p class="text-primary font-semibold">Folder</p>
-    <br>
-    <p class="text-primary font-semibold">File</p> -->
+    <div class="">
+        <p class="text-primary font-semibold">Folder</p>
+        <br>
+        <p class="text-primary font-semibold">File</p>
+    </div>
 
 </body>
-</html>
+</html> -->
+
+{% extends 'assets/base.html' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="">
+    <p class="text-primary font-semibold">Folder</p>
+    <br>
+    <p class="text-primary font-semibold">File</p>
+</div>
+{% endblock %}
